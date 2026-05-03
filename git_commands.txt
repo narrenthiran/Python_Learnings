@@ -1,0 +1,42 @@
+    1  ls
+    2  pwd
+    3  df -kh
+    4  cd /d
+    5  ls
+    6  cd PythonProject/
+    7  git remote add origin https://github.com/narrenthiran/Python_Learnings.git
+    8  git init
+    9  git remote add origin https://github.com/narrenthiran/Python_Learnings.git
+   10  git branch -M master
+   11  git push -u origin master
+   12* 
+   13  git push -u origin master
+   14  git add README.md
+   15  git commit -m "first commit"
+   16  git config --global user.email "narrenthiran2001@gmail.com"
+   17  git commit -m "first commit"
+   18  git branch -M master
+   19  git remote add origin https://github.com/narrenthiran/Python_Learnings.git
+   20  git push -u origin master
+   21  git status
+   22  git add .
+   23  git commit -m "Initial commit"
+   24  git push -u origin master
+   25  git push -u origin master
+   26  command | tee -a git_logs.txt
+   27  ls
+   28  git push -u origin master
+   29  git status
+   30  git add .
+   31  git commit -m "Initial commit"
+   32  git push -u origin master
+   33  cat git_logs.txt 
+   34  command >> git_logs.txt
+   35  cat git_logs.txt 
+   36  vi git_logs.txt 
+   37  cat git_logs.txt 
+   38  git status
+   39  git add .
+   40  git commit -m "Initial commit"
+   41  git push -u origin master
+   42  history >> git_commands.txt
