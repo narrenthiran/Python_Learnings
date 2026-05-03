@@ -1,0 +1,97 @@
+PS D:\PythonProject> & C:/Users/SKI/AppData/Local/Programs/Python/Python313/python.exe d:/PythonProject/main.py
+Hello World
+PS D:\PythonProject> & C:/Users/SKI/AppData/Local/Programs/Python/Python313/python.exe d:/PythonProject/main.py
+Hello World
+Hello {name}
+PS D:\PythonProject> & C:/Users/SKI/AppData/Local/Programs/Python/Python313/python.exe d:/PythonProject/main.py
+Hello World
+Hello {name}
+Hello World
+PS D:\PythonProject> & C:/Users/SKI/AppData/Local/Programs/Python/Python313/python.exe d:/PythonProject/main.py
+Hello Alice, you are 30 years old.
+Hello Alice, you are 30 years old.
+Hello Alice, you are 30 years old.
+PS D:\PythonProject> & C:/Users/SKI/AppData/Local/Programs/Python/Python313/python.exe d:/PythonProject/main.py
+Hello Alice, you are 30 years old.
+Traceback (most recent call last):
+  File "d:\PythonProject\main.py", line 4, in <module>
+    print("Hello {name}, you are {age} years old.".format(name=gold, age=yr))
+                                                               ^^^^
+NameError: name 'gold' is not defined
+PS D:\PythonProject> & C:/Users/SKI/AppData/Local/Programs/Python/Python313/python.exe d:/PythonProject/main.py
+Hello Alice, you are 30 years old.
+Traceback (most recent call last):
+  File "d:\PythonProject\main.py", line 4, in <module>
+    print("Hello {name}, you are {age} years old.".format(gold=name, yr=age))
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'name'
+PS D:\PythonProject> & C:/Users/SKI/AppData/Local/Programs/Python/Python313/python.exe d:/PythonProject/main.py
+Hello Alice, you are 30 years old.
+Traceback (most recent call last):
+  File "d:\PythonProject\main.py", line 4, in <module>
+    print("Hello {name}, you are {age} years old.".format(gold=name, yr=age))
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'name'
+PS D:\PythonProject> & C:/Users/SKI/AppData/Local/Programs/Python/Python313/python.exe d:/PythonProject/main.py
+  File "d:\PythonProject\main.py", line 5
+    5d=10
+    ^
+SyntaxError: invalid decimal literal
+PS D:\PythonProject> & C:/Users/SKI/AppData/Local/Programs/Python/Python313/python.exe d:/PythonProject/main.py
+  File "d:\PythonProject\main.py", line 6
+    print(5d)
+          ^
+SyntaxError: invalid decimal literal
+PS D:\PythonProject> & C:/Users/SKI/AppData/Local/Programs/Python/Python313/python.exe d:/PythonProject/main.py
+  File "d:\PythonProject\main.py", line 6
+    print(5d)
+          ^
+SyntaxError: invalid decimal literal
+PS D:\PythonProject> & C:/Users/SKI/AppData/Local/Programs/Python/Python313/python.exe d:/PythonProject/main.py
+Hello Alice, you are 30 years old.
+The value of d is 10.
+PS D:\PythonProject> & C:/Users/SKI/AppData/Local/Programs/Python/Python313/python.exe d:/PythonProject/main.py
+Hello Alice, you are 30 years old.
+The value of d is 10.
+The value of d multiplied by 5 is 50.
+PS D:\PythonProject> git remote add origin https://github.com/narrenthiran/Python_Learnings.git
+git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. 
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ git remote add origin https://github.com/narrenthiran/Python_Learning ...
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS D:\PythonProject> git remote add origin https://github.com/narrenthiran/Python_Learnings.git
+git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct 
+and try again.
+At line:1 char:1
++ git remote add origin https://github.com/narrenthiran/Python_Learning ...
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS D:\PythonProject> git remote add origin https://github.com/narrenthiran/Python_Learnings.git
+git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct 
+and try again.
+At line:1 char:1
++ git remote add origin https://github.com/narrenthiran/Python_Learning ...
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS D:\PythonProject> 
+PS D:\PythonProject> git init
+git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct 
+and try again.
+At line:1 char:1
++ git init
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS D:\PythonProject> 
